@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HakeemAlavi/backend-practice.git"
+    "url": "git+https://github.com/HakeemAlavi/Backend"
   },
   "author": "Hakeem Alavi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/HakeemAlavi/backend-practice/issues"
+    "url": "https://github.com/HakeemAlavi/Backend"
   },
-  "homepage": "https://github.com/HakeemAlavi/backend-practice#readme",
+  "homepage": "https://github.com/HakeemAlavi/Backend#readme",
   "dependencies": {
     "express": "^4.19.2"
   }
